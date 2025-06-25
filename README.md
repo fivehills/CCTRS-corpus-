@@ -34,7 +34,7 @@ Below is an example of a "run-on" sentence from the corpus (EDUs 95.1–95.6), i
 | 95.5 | 天裂          | SV                    | ce (cause-effect)  | 4-5#6         | 2                 | 1            | NA      |
 | 95.6 | 漏水          | VP                    | ju (conjunction)   | 6#7           | 1                 | 1            | NA      |
 
-**RST Tree Structure** (simplified):
+**RST Tree Structure** (simplified with the distinction of head and sta, by tagged with PDTB style):
 ```
 Root
 ├── Branch 1 (1-3, pg): Airplane action sequence
