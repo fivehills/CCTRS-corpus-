@@ -1,7 +1,7 @@
 # Corpus of Chinese Textual 'Run-on' Sentences (CCTRS) --Discourse Corpus Benchmark with Multi-layer Annotations
 
 ## Overview
-The **Corpus of Chinese Textual 'Run-on' Sentences (CCTRS)** is a specialized discourse corpus designed to study "run-on" sentences (*liushui ju* or "flowing-water sentences"), a prevalent linguistic phenomenon in Chinese characterized by implicit logical connections and semantic leaps. Comprising **500 sentences** from contemporary Chinese fiction (2.6 million characters), the CCTRS provides multi-layer annotations to support computational discourse analysis and natural language processing (NLP) tasks.
+The **Corpus of Chinese Textual 'Run-on' Sentences (CCTRS)** is a specialized discourse corpus designed to study "run-on" sentences (*liushui ju* or "flowing-water sentences", 汉语"流水句“), a prevalent linguistic phenomenon in Chinese characterized by implicit logical connections and semantic leaps. Comprising **500 sentences** from contemporary Chinese fiction (2.6 million characters), the CCTRS provides multi-layer annotations to support computational discourse analysis and natural language processing (NLP) tasks.
 
 This corpus integrates the strengths of **Penn Discourse Treebank (PDTB)** and **Rhetorical Structure Theory (RST)** annotation frameworks, making it the first Chinese corpus to merge these approaches. It includes annotations for **discourse relations**, **grammatical structures**, **semantic information** (e.g., animacy, verb valence), and **topic chains**, offering a rich resource for studying Chinese discourse characteristics.
 
