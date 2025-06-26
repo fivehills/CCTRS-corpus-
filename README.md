@@ -62,6 +62,10 @@ The CCTRS serves as a benchmark for evaluating discourse parsers and supports va
 - **Verbs**: 2,281 verbs with valence information.
 - **Distribution**: Follows a power-law distribution, consistent with other discourse corpora.
 
+## Annotation files
+- "updated_annotations.json": the annotations for multilayers (discourse, grammatical and syntactic levels)
+- "rst_trees.json": the RST tree information for each text
+
 ## Comparison with Other Corpora
 Unlike other Chinese discourse corpora (e.g., CDTB, CUHK, TED-CDB, MCCFRR), which focus on news or TED talks and use single-layer annotations (PDTB or RST), the CCTRS:
 - Targets fiction, capturing unique "run-on" sentence characteristics.
