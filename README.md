@@ -74,7 +74,7 @@ Unlike other Chinese discourse corpora (e.g., CDTB, CUHK, TED-CDB, MCCFRR), whic
 
 ## Access and Contributions
 - **Access**: Download the corpus at [https://github.com/fivehills/CCTRS-corpus-/tree/main](https://github.com/fivehills/CCTRS-corpus-/tree/main).
-- **Citation**: Please cite the paper: Sun, K., & Wang, R. (2022). *Constructing the Corpus of Chinese Textual 'Run-on' Sentences (CCTRS): Discourse Corpus Benchmark with Multi-layer Annotations*. In Proceedings of ICNLSP 2022.
+- **Citation**: Please cite the paper: Sun, K., & Wang, R. (2022). *Constructing the Corpus of Chinese Textual 'Run-on' Sentences (CCTRS): Discourse Corpus Benchmark with Multi-layer Annotations*. In Proceedings of ICNLSP 2022 (download at [https://aclanthology.org/2022.icnlsp-1.31/]).
 - **Acknowledgments**: Supported by the China Postdoctoral Science Foundation (No. 2018T110581). Thanks to Prof. Haitao Liu, Yiyun Zhou, Mengjie Xu, and Dr. Yi Shan for their contributions.
 
 ## Contact
